@@ -1,1 +1,3 @@
-# test_lnk
+[This repo](..)
+
+[file in this repo](/neki.txt)
